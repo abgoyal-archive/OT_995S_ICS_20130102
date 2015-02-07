@@ -1,0 +1,13 @@
+build
+.waf*
+tags
+.lock-wscript
+*.pyc
+doc/api.xml
+tools/nodejs.pc
+node
+node_g
+*.swp
+.benchmark_reports
+/.project
+/.cproject
